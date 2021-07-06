@@ -2,6 +2,8 @@
 
 #How to properly run the application
 
+(You want to be sure that .Net Core and NPM are installed on your Computer)
+
 1. Clone the repository
 2. Open the project folder in terminal
 3. Write command "dotnet restore"
