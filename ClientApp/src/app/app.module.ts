@@ -39,7 +39,7 @@ import { VideoBottomControlsComponent } from './aegisub/editor/video/video-botto
     HttpClientModule,
     FormsModule,
     RouterModule.forRoot([
-      { path: '', component: HomeComponent, pathMatch: 'full' },
+      { path: '', component: AegisubComponent, pathMatch: 'full' },
       { path: 'aegisub', component: AegisubComponent}
     ]),
     BrowserAnimationsModule,
